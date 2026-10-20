@@ -1,0 +1,15 @@
+# Fichiers compilés Java
+*.class
+
+# Dossiers de compilation
+out/
+target/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Fichiers système
+.DS_Store
